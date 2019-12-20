@@ -5,8 +5,9 @@
 - Mac Gui app 使用 brew cask 管理；
 - Mac 命令行程序使用 brew 管理；
 - Python项目使用 virtualenvwrapper 管理；
-- Python命令行工具使用 pipsi 管理；
+- Python命令行工具使用 ~pipsi~ pipx 管理；
 - 虚拟机使用 vagrant 管理；
+- 日常工作在 tmux 中，tmux 中的 session 用 tmuxp 管理；
 
 # myrc
 
