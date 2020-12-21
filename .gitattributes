@@ -1,1 +1,2 @@
 .config/clash/config.yaml filter=git-crypt diff=git-crypt
+bin/init-shopee-go-project.sh filter=git-crypt diff=git-crypt
